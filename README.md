@@ -8,11 +8,10 @@
 
 尚有不完善之处，将来可能进行改进
 
-This is the homework of Linear Modeling(STAT 151A) in UC Berkeley during my exchange to Cal in fall 2018. The material of the program comes from Kaggle.
+This is the homework of Linear Modeling(STAT 151A) during my exchange to UC Berkeley in fall 2018. The material of the program comes from Kaggle.
 
-This program models passengers on titanic, judge if they could survive based on various factors. The dataset comes from https://www.kaggle.
-com/c/titanic/data. 
+This program models passengers on titanic, predicts if they could survive based on various factors. The dataset comes from https://www.kaggle.com/c/titanic/data. 
 
 The model's performance on the testing set has an accuracy rate of about 0.86
 
-Still there are improvement shall be made to this model.
+Still there is improvement shall be made to this model.
