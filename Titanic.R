@@ -1,3 +1,5 @@
+#Data can be found on https://www.kaggle.com/c/titanic/data, the following is just an example
+
 train=read.csv("c:/Users/a/desktop/train.csv")
 test=read.csv("c:/Users/a/desktop/test.csv")
 
